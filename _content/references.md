@@ -4,7 +4,7 @@
 
 | Unit                   | Unit Symbol or Abbreviation |
 | :--------------------- | :-------------------------- |
-| **bits per second**    | bps                         |
+| bits per second        | bps                         |
 | **byte**               | B                           |
 | **decibel**            | dB                          |
 | **Frames per second**  | fps                         |
